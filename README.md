@@ -28,6 +28,17 @@ The "pfSense-Git-Backup" project provides a set of scripts to automate the backu
 
 Make sure to test the scripts in a controlled environment before deploying them in production. Always prioritize security and the protection of sensitive information.
 
-## License
+## Installation
 
-This project is licensed under the [MIT License](https://github.com/your_github_username/your_github_repo/blob/main/LICENSE).
+Run the following commands to install and configure the project:
+
+```bash
+# Clone the repository (or copy the scripts manually)
+git clone https://github.com/your_github_username/your_github_repo.git
+
+# Change to the installation directory
+cd your_github_repo
+
+# Run the installation script
+chmod +x install.sh
+./install.sh
