@@ -34,10 +34,10 @@ Run the following commands to install and configure the project:
 
 ```bash
 # Clone the repository (or copy the scripts manually)
-git clone https://github.com/your_github_username/your_github_repo.git
+git clone https://github.com/Benjamin-Chianese/pfSense-Git-Backup.git
 
 # Change to the installation directory
-cd your_github_repo
+cd pfSense-Git-Backup.git
 
 # Run the installation script
 chmod +x install.sh
